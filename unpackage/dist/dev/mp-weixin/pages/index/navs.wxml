@@ -1,0 +1,1 @@
+<view class="box"><view class="top"><block wx:for="{{navinfo}}" wx:for-item="item" wx:for-index="__i0__" wx:key="id"><navigator class="items" url="{{item.url}}"><image class="icon" src="{{item.img}}" mode></image><text class="text-box">{{item.text}}</text></navigator></block></view><view class="bottom"><image class="imgbig" src="../../static/8.png" mode></image></view></view>

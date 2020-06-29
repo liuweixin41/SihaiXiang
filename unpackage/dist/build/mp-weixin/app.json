@@ -1,0 +1,54 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/start/start",
+    "pages/my/my",
+    "pages/order/order",
+    "pages/like/like",
+    "pages/order/orderInfo/orderInfo",
+    "pages/payrecord/payrecord",
+    "pages/dingdanhistory/dingdanhistory",
+    "pages/my/complaint/complaint",
+    "pages/shopcar/shopcar"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "四海香",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#f01",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/footer1.png",
+        "selectedIconPath": "static/footer1-sel.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/like/like",
+        "iconPath": "static/footer2.png",
+        "selectedIconPath": "static/footer2-sel.png",
+        "text": "心愿单"
+      },
+      {
+        "pagePath": "pages/order/order",
+        "iconPath": "static/footer3.png",
+        "selectedIconPath": "static/footer3-sel.png",
+        "text": "烹饪行程"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "iconPath": "static/footer4.png",
+        "selectedIconPath": "static/footer4-sel.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

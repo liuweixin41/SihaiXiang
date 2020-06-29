@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "四海香",
+  "usingComponents": {
+    "banner": "/pages/index/banner",
+    "navs": "/pages/index/navs",
+    "cookers": "/pages/index/cookers",
+    "goods": "/pages/index/goods",
+    "adv": "/pages/index/adv"
+  }
+}

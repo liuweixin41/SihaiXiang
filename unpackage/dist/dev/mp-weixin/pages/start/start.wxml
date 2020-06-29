@@ -1,0 +1,1 @@
+<view class="login"><image class="img-big" src="/static/w4.jpg"></image><button class="btn" open-type="getUserInfo" data-event-opts="{{[['getuserinfo',[['getuserinfo',['$event']]]]]}}" bindgetuserinfo="__e">开放登录</button></view>

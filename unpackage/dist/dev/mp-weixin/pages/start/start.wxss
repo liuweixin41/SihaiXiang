@@ -1,0 +1,23 @@
+
+page,
+.login,
+.img-big {
+	width: 750rpx;
+	height: 100%;
+}
+.img-big {
+	position: relative;
+}
+.btn {
+	width: 250rpx;
+	height: 100rpx;
+	background-color: #576B95;
+	position: absolute;
+	left: 50%;
+	bottom: 0rpx;
+	margin-left: -100rpx;
+	-webkit-box-shadow: 1px 1px 10px 1px #2C405A;
+	        box-shadow: 1px 1px 10px 1px #2C405A;
+	color: #FFFFFF;
+}
+

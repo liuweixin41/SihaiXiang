@@ -1,0 +1,1 @@
+<view class="content"><banner vue-id="1" bind:__l="__l"></banner><navs vue-id="2" bind:__l="__l"></navs><view class="horizon"></view><cookers vue-id="3" bind:__l="__l"></cookers><view class="horizon"></view><goods vue-id="4" bind:__l="__l"></goods><view class="horizon"></view><adv vue-id="5" bind:__l="__l"></adv></view>
